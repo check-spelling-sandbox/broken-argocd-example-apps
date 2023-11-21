@@ -1,4 +1,4 @@
-# ArgoCD Example Apps
+# ArgoCD Example Apps!
 
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
@@ -19,3 +19,5 @@ to explore ArgoCD and GitOps!
 | [plugins](plugins/) | Apps which demonstrate config management plugins usage |
 | [blue-green](blue-green/) | Demonstrates how to implement blue-green deployment using [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
 | [apps](apps/) | An app composed of other apps |
+
+Thanks:)
